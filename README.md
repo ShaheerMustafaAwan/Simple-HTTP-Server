@@ -36,6 +36,5 @@ The servers serve static HTML pages and handle HTTP GET and POST requests (e.g.,
  ```bash
   npm install
   node server.js
-
 3. Access the server at: http://localhost:3000
 
