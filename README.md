@@ -31,10 +31,11 @@ The servers serve static HTML pages and handle HTTP GET and POST requests (e.g.,
 3. Access the server at: http://localhost:5000
 
 🔹 Express Server (Node.js)
-1.Go to node_server folder
-2.Run the following:
+1. Go to node_server folder
+2. Run the following:
  ```bash
   npm install
   node server.js
+
 3. Access the server at: http://localhost:3000
 
