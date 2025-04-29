@@ -30,7 +30,7 @@ The servers serve static HTML pages and handle HTTP GET and POST requests (e.g.,
    python app.py
 3. Access the server at: http://localhost:5000
 
-🔹 Express Server (Node.js)
+### 🔹 Express Server (Node.js)
 1. Go to node_server folder
 2. Run the following:
    ```bash
