@@ -3,7 +3,7 @@
 This project demonstrates a basic HTTP web server using multiple frameworks:
 - Python (Flask)
 - Node.js (Express)
-- (Optional) Python HTTPServer / Java Spring Boot
+- Java (Spring Boot)
 
 The servers serve static HTML pages and handle HTTP GET and POST requests (e.g., contact form submission).
 
@@ -33,8 +33,8 @@ The servers serve static HTML pages and handle HTTP GET and POST requests (e.g.,
 🔹 Express Server (Node.js)
 1. Go to node_server folder
 2. Run the following:
- ```bash
-  npm install
-  node server.js
-3. Access the server at: http://localhost:3000
+   ```bash
+   npm install
+   npm start
+3. Access the server at: http://localhost:5000
 
