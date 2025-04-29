@@ -23,8 +23,18 @@ The servers serve static HTML pages and handle HTTP GET and POST requests (e.g.,
 ## 🧑‍💻 How to Run
 
 ### 🔹 Flask Server (Python)
-1. Go to `flask_server` folder
+1. Go to `Flask` folder
 2. Run the following:
    ```bash
    pip install flask
    python app.py
+3. Access the server at: http://localhost:5000
+
+🔹 Express Server (Node.js)
+1.Go to node_server folder
+2.Run the following:
+ ```bash
+  npm install
+  node server.js
+3. Access the server at: http://localhost:3000
+
