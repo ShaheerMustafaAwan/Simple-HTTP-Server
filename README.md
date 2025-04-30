@@ -62,7 +62,7 @@ The servers serve static HTML pages and handle HTTP GET and POST requests (e.g.,
 
 - Form in `/contact` allows users to submit `name`, and `message`
 - On submission, it redirects to `/thankyou.html?name=...&message=...`
-- A log file `user_logs.txt` is created and appended with each submission
+- A log file `logs.txt` is created and appended with each submission
 
 ---
 
