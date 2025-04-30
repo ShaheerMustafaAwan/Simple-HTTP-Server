@@ -58,7 +58,37 @@ The servers serve static HTML pages and handle HTTP GET and POST requests (e.g.,
 
 ---
 
-## 👥 Team Members
+## 📬 Contact Form
 
-- Amna  
-- Shaheer
+- Form in `/contact` allows users to submit `name`, and `message`
+- On submission, it redirects to `/thankyou.html?name=...&message=...`
+- A log file `user_logs.txt` is created and appended with each submission
+
+---
+
+## 🛠 Technologies Used
+
+- HTML, CSS
+- Python (Flask)
+- Node.js (Express)
+- Java (springboot)
+
+---
+
+## 📸 Screenshots
+
+> _Include screenshots of your pages here: Home, About, Contact form, Thank You screen_
+
+---
+
+## 📄 License
+
+This project is created for educational purposes for the **CS3001 Computer Networks** course at **FAST NUCES Karachi (Spring 2025)**.
+
+---
+
+## 👨‍💻 Team Members
+
+- **Shaheer Mustafa Awan** – Node.js & Python Flask Implementation, UI/UX  
+- **Amna Mubashir** – Java Spring Boot Implementation, Deployment & Testing  
+
