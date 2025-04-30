@@ -38,3 +38,27 @@ The servers serve static HTML pages and handle HTTP GET and POST requests (e.g.,
    npm start
 3. Access the server at: http://localhost:5000
 
+---
+
+### 🔹 Spring Boot Server (Java)
+1. Go to `springboot` folder  
+2. Make sure you have Java and Maven installed:
+   - [Java JDK 21+](https://adoptium.net/en-GB/temurin/releases/)
+   - [Apache Maven](https://maven.apache.org/download.cgi)
+3. Add both to your system `PATH` and confirm:
+   ```bash
+   java -version
+   mvn -v
+   ```
+4. Then run the server:
+   ```bash
+   mvn spring-boot:run
+   ```
+5. Access the server at: [http://localhost:8000](http://localhost:8000)
+
+---
+
+## 👥 Team Members
+
+- Amna  
+- Shaheer
