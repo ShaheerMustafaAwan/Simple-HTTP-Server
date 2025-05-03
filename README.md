@@ -36,7 +36,7 @@ The servers serve static HTML pages and handle HTTP GET and POST requests (e.g.,
    ```bash
    npm install
    npm start
-3. Access the server at: http://localhost:5000
+3. Access the server at: http://localhost:3000
 
 ---
 
@@ -78,7 +78,10 @@ The servers serve static HTML pages and handle HTTP GET and POST requests (e.g.,
 ## 📸 Screenshots
 
 > _Include screenshots of your pages here: Home, About, Contact form, Thank You screen_
-
+![alt text](image-2.png)
+![alt text](image-1.png)
+![alt text](image-3.png)
+![alt text](image.png)
 ---
 
 ## 📄 License
